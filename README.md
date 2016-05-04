@@ -15,6 +15,8 @@ Lecture  | Name | Date
 1. | [Course Overview: Intro to iOS, Xcode, and Swift](slides/Lecture-1-Slides.pdf) | March 28, 2016
 2. | [Applying MVC: Calculator Demo Continued](slides/Lecture-2-Slides.pdf) | March 30, 2016
 3. | [More Swift & Foundation Framework](slides/Lecture-3-Slides.pdf) | April 4, 2016
+4. | [Views, FaceView Demo](slides/Lecture-4-Slides.pdf) | April 6, 2016
+5. | [Interface Builder, FaceView Controller, Gestures, Multiple MVCs](slides/Lecture-5-Slides.pdf) | April 11, 2016
 
 ## Reading
 Reading  | Name 
@@ -25,6 +27,12 @@ Reading  | Name
 PS  | Name 
 ------------- | ------------- 
 1. | [Assignment 1: Calculator](problemsets/Programming_Project_1_Calculator.pdf)
+2. | [Assignment 2: Calculator Brain](problemsets/Programming_Project_2_Calculator_Brain.pdf)
+
+## Solutions
+PS  | Name 
+------------- | ------------- 
+1. | [Assignment 1: Calculator](problemsets/assignment-1/)
 
 
 ## Licensing

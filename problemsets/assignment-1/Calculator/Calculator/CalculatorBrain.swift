@@ -8,6 +8,10 @@
 
 import Foundation
 
+func multiply(op1: Double, op2: Double) -> Double {
+    return op1 * op2
+}
+
 class CalculatorBrain {
     
     private var accumulator = 0.0
@@ -20,25 +24,46 @@ class CalculatorBrain {
         "π" : Operation.Constant(M_PI),
         "e" : Operation.Constant(M_E),
         "√" : Operation.UnaryOperation(sqrt), // sqrt
-        "cos" : Operation.UnaryOperation(cos) // cos
+        "cos" : Operation.UnaryOperation(cos), // cos
+        "×" : Operation.BinaryOperation(multiply),
+        "=" : Operation.Equals
     ]
     
     enum Operation {
         case Constant(Double)
         case UnaryOperation((Double) -> Double)
-        case BinaryOperation
+        case BinaryOperation((Double, Double) -> Double)
         case Equals
     }
     
     func performOperation(symbol: String) {
         if let operation = operations[symbol] {
             switch operation {
-            case .Constant(let associatedConstantValue): accumulator = associatedConstantValue
-            case .UnaryOperation(let associatedFunctionValue): accumulator = associatedFunctionValue(accumulator)
-            case .BinaryOperation: break
-            case .Equals: break
+            case .Constant(let value):
+                accumulator = value
+            case .UnaryOperation(let function):
+                accumulator = function(accumulator)
+            case .BinaryOperation(let function):
+                executePendingBinaryOperation()
+                pending = PendingBinaryOperationInfo(binaryFunction: function, firstOperand: accumulator)
+            case .Equals:
+                executePendingBinaryOperation()
             }
         }
+    }
+    
+    private func executePendingBinaryOperation() {
+        if pending != nil {
+            accumulator = pending!.binaryFunction(pending!.firstOperand, accumulator)
+            pending = nil
+        }
+    }
+    
+    private var pending: PendingBinaryOperationInfo?
+    
+    struct PendingBinaryOperationInfo {
+        var binaryFunction: (Double, Double) -> Double
+        var firstOperand: Double
     }
     
     var result: Double {
