@@ -18,10 +18,12 @@ Lecture  | Name | Date
 4. | [Views, FaceView Demo](slides/Lecture-4-Slides.pdf) | April 6, 2016
 5. | [Interface Builder, FaceView Controller, Gestures, Multiple MVCs](slides/Lecture-5-Slides.pdf) | April 11, 2016
 
-## Reading
+## Reading Assignments
 Reading  | Name 
 ------------- | ------------- 
 1. | [Reading 1: Intro to Swift](reading/Reading_1_Intro_to_Swift.pdf) 
+2. | [Reading 2: More Swift](reading/Reading_2_More_Swift.pdf)
+3. | [Reading 3: The Rest of Swift](reading/Reading_3_The_Rest_of_Swift.pdf)
 
 ## Problem Sets
 PS  | Name 
