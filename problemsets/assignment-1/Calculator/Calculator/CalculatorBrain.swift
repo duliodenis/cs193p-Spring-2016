@@ -8,8 +8,6 @@
 
 import Foundation
 
-// at 1:14 - about to make a stack of stacks in the storyboard
-
 class CalculatorBrain {
     
     private var accumulator = 0.0
