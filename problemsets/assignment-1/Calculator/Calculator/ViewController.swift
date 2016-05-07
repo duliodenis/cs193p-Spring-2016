@@ -13,11 +13,19 @@ class ViewController: UIViewController {
     @IBOutlet private weak var display: UILabel!
     
     private var userIsInTheMiddleOfTyping = false
+    private var decimalUsed = false
 
     @IBAction private func touchDigit(sender: UIButton) {
         let digit = sender.currentTitle!
         
         if userIsInTheMiddleOfTyping {
+            
+            if digit == "." && decimalUsed == true {
+                return
+            } else if digit == "." && decimalUsed == false {
+                decimalUsed = true
+            }
+            
             let textCurrentlyInDisplay = display.text!
             display.text = textCurrentlyInDisplay + digit
         } else {
