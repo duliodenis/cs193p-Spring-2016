@@ -2,7 +2,7 @@
 
 An iOS 9 / Swift 2 Calculator App that recreates the demonstration given in lecture and then make some small enhancements.
 
-![](Art/Screenshot/Calculator05.gif?raw=true)
+![](Art/Screenshot/Calculator06.gif?raw=true)
 
 ## Contributing
 
