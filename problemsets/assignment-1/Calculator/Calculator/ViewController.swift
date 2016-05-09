@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     @IBOutlet private weak var display: UILabel!
+    @IBOutlet private weak var calculationTape: UILabel!
     
     private var userIsInTheMiddleOfTyping = false
     private var decimalUsed = false
@@ -59,6 +60,14 @@ class ViewController: UIViewController {
         }
         
         displayValue = brain.result
+    }
+    
+    @IBAction func clear(sender: AnyObject) {
+        userIsInTheMiddleOfTyping = false
+        decimalUsed = false
+        brain.clear()
+        displayValue = brain.result
+        display.text = "0"
     }
 }
 

@@ -11,6 +11,7 @@ import Foundation
 class CalculatorBrain {
     
     private var accumulator = 0.0
+    private var memory = 0.0
     
     func setOperand(operand: Double) {
         accumulator = operand
@@ -21,7 +22,10 @@ class CalculatorBrain {
         "e" : Operation.Constant(M_E),
         "±" : Operation.UnaryOperation({ -$0 }),
         "√" : Operation.UnaryOperation(sqrt),
+        "x^2" : Operation.UnaryOperation({ pow($0, 2.0) }),
         "cos" : Operation.UnaryOperation(cos),
+        "sin" : Operation.UnaryOperation(sin),
+        "tan" : Operation.UnaryOperation(tan),
         "×" : Operation.BinaryOperation({ $0 * $1 }),
         "÷" : Operation.BinaryOperation({ $0 / $1 }),
         "+" : Operation.BinaryOperation({ $0 + $1 }),
@@ -70,5 +74,9 @@ class CalculatorBrain {
         get {
             return accumulator
         }
+    }
+    
+    func clear() {
+        accumulator = 0.0
     }
 }
