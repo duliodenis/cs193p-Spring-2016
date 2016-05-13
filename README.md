@@ -17,6 +17,9 @@ Lecture  | Name | Date
 3. | [More Swift & Foundation Framework](slides/Lecture-3-Slides.pdf) | April 4, 2016
 4. | [Views, FaceView Demo](slides/Lecture-4-Slides.pdf) | April 6, 2016
 5. | [Interface Builder, FaceView Controller, Gestures, Multiple MVCs](slides/Lecture-5-Slides.pdf) | April 11, 2016
+6. | [Multiple MVCs, Segues, FaceIt View Controller Lifecycle](slides/Lecture-6-Slides.pdf) | April 13, 2016
+7. | [Closures, Extensions, Protocols, Delegation, ScrollView](slides/Lecture-7-Slides.pdf) | April 18, 2016
+
 
 ## Reading Assignments
 Reading  | Name 
@@ -30,6 +33,7 @@ PS  | Name
 ------------- | ------------- 
 1. | [Assignment 1: Calculator](problemsets/Programming_Project_1_Calculator.pdf)
 2. | [Assignment 2: Calculator Brain](problemsets/Programming_Project_2_Calculator_Brain.pdf)
+3. | [Assignment 3: Graphing Calculator](problemsets/Programming_Project_3_Graphic_Calculator.pdf)
 
 ## Solutions
 PS  | Name 
