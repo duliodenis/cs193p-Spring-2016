@@ -19,6 +19,7 @@ Lecture  | Name | Date
 5. | [Interface Builder, FaceView Controller, Gestures, Multiple MVCs](slides/Lecture-5-Slides.pdf) | April 11, 2016
 6. | [Multiple MVCs, Segues, FaceIt View Controller Lifecycle](slides/Lecture-6-Slides.pdf) | April 13, 2016
 7. | [Closures, Extensions, Protocols, Delegation, ScrollView](slides/Lecture-7-Slides.pdf) | April 18, 2016
+8. | [Multithreading, Text Field, Demo](slides/Lecture-8-Slides.pdf) | April 20, 2016
 
 
 ## Reading Assignments
