@@ -20,6 +20,8 @@ Lecture  | Name | Date
 6. | [Multiple MVCs, Segues, FaceIt View Controller Lifecycle](slides/Lecture-6-Slides.pdf) | April 13, 2016
 7. | [Closures, Extensions, Protocols, Delegation, ScrollView](slides/Lecture-7-Slides.pdf) | April 18, 2016
 8. | [Multithreading, Text Field, Demo](slides/Lecture-8-Slides.pdf) | April 20, 2016
+9. | [Table View](slides/Lecture-9-Slides.pdf) | April 25, 2016
+10. | [Core Data](slides/Lecture-10-Slides.pdf) | April 27, 2016
 
 
 ## Reading Assignments
@@ -35,6 +37,7 @@ PS  | Name
 1. | [Assignment 1: Calculator](problemsets/Programming_Project_1_Calculator.pdf)
 2. | [Assignment 2: Calculator Brain](problemsets/Programming_Project_2_Calculator_Brain.pdf)
 3. | [Assignment 3: Graphing Calculator](problemsets/Programming_Project_3_Graphic_Calculator.pdf)
+4. | [Assignment 4: Smashtag Mentions](problemsets/Programming_Project_4_Smashtag_Mentions.pdf)
 
 ## Solutions
 PS  | Name 
