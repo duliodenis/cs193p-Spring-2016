@@ -22,7 +22,9 @@ Lecture  | Name | Date
 8. | [Multithreading, Text Field, Demo](slides/Lecture-8-Slides.pdf) | April 20, 2016
 9. | [Table View](slides/Lecture-9-Slides.pdf) | April 25, 2016
 10. | [Core Data](slides/Lecture-10-Slides.pdf) | April 27, 2016
-
+11. | [Core Data Demo](slides/Lecture-11-Slides.pdf) | May 2, 2016
+12. | [Auto Layout](slides/Lecture-12-Slides.pdf) | May 4, 2016
+13. | [Animation](slides/Lecture-13-Slides.pdf) | May 9, 2016
 
 ## Reading Assignments
 Reading  | Name 
