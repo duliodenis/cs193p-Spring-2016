@@ -23,9 +23,11 @@ Lecture  | Name | Date
 9. | [Table View](slides/Lecture-9-Slides.pdf) | April 25, 2016
 10. | [Core Data](slides/Lecture-10-Slides.pdf) | April 27, 2016
 11. | [Core Data Demo](slides/Lecture-11-Slides.pdf) | May 2, 2016
-12. | [Auto Layout (Missing Lecture Video)](slides/Lecture-12-Slides.pdf) | May 4, 2016
+12. | [Auto Layout](slides/Lecture-12-Slides.pdf) | May 4, 2016
 13. | [NSTimer, Animation](slides/Lecture-13-Slides.pdf) | May 9, 2016
 14. | [Animation Continued, CoreMotion](slides/Lecture-14-Slides.pdf) | May 11, 2016
+15. | [Application Lifecycle, Alerts, Cloud Kit](slides/Lecture-15-Slides.pdf) | May 16, 2016
+16. | [Demo, Notifications, Cloudkit](slides/Lecture-16-Slides.pdf) | May 18, 2016
 
 ## Reading Assignments
 Reading  | Name 
@@ -41,7 +43,7 @@ PS  | Name
 2. | [Assignment 2: Calculator Brain](problemsets/Programming_Project_2_Calculator_Brain.pdf)
 3. | [Assignment 3: Graphing Calculator](problemsets/Programming_Project_3_Graphic_Calculator.pdf)
 4. | [Assignment 4: Smashtag Mentions](problemsets/Programming_Project_4_Smashtag_Mentions.pdf)
-5. | Missing Assignment 
+5. | [Assignment 5: Smashtag Mention Popularity](problemsets/Programming_Project_5_Smashtag_Ment.pdf)
 6. | [Assignment 6: Animation](problemsets/Programming_Project_6_Animation.pdf)
 
 ## Solutions
