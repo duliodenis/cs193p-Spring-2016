@@ -28,6 +28,8 @@ Lecture  | Name | Date
 14. | [Animation Continued, CoreMotion](slides/Lecture-14-Slides.pdf) | May 11, 2016
 15. | [Application Lifecycle, Alerts, Cloud Kit](slides/Lecture-15-Slides.pdf) | May 16, 2016
 16. | [Demo, Notifications, Cloudkit](slides/Lecture-16-Slides.pdf) | May 18, 2016
+17. | [Segues, Core Location, MapKit](slides/Lecture-17-Slides.pdf) | May 23, 2016
+18. | [Trax Demo, Persistence](slides/Lecture-18-Slides.pdf) | May 25, 2016
 
 ## Reading Assignments
 Reading  | Name 
