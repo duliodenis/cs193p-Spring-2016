@@ -15,21 +15,21 @@ Lecture  | Slides | Source | Video | Date
 1. | [Course Overview: Intro to iOS, Xcode, and Swift](slides/Lecture-1-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/_lRx1zoriPo?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT) | March 28, 2016
 2. | [Applying MVC: Calculator Demo Continued](slides/Lecture-2-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/j50mPzDMWVQ?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT) | March 30, 2016
 3. | [More Swift & Foundation Framework](slides/Lecture-3-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/NrTTCaL2xQM?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT) | April 4, 2016
-4. | [Views, FaceView Demo](slides/Lecture-4-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/FaceIt-L4)| [![](art/play.png?raw=true)](https://youtu.be/jcxp1bbXbL4?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT) | April 6, 2016
-5. | [Interface Builder, FaceView Controller, Gestures, Multiple MVCs](slides/Lecture-5-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/97jg_zxVivg) | April 11, 2016
-6. | [Multiple MVCs, Segues, FaceIt View Controller Lifecycle](slides/Lecture-6-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/o_HukQ-IKH8) | April 13, 2016
-7. | [Closures, Extensions, Protocols, Delegation, ScrollView](slides/Lecture-7-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/ppNZoEOr0zs) | April 18, 2016
-8. | [Multithreading, Text Field, Demo](slides/Lecture-8-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/_ib-m6ZCyyo) | April 20, 2016
-9. | [Table View](slides/Lecture-9-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/SgEO7nni5CQ) | April 25, 2016
+4. | [Views, FaceView Demo](slides/Lecture-4-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/FaceIt-L4) | [![](art/play.png?raw=true)](https://youtu.be/jcxp1bbXbL4?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT) | April 6, 2016
+5. | [Interface Builder, FaceView Controller, Gestures, Multiple MVCs](slides/Lecture-5-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/FaceIt-L5) | [![](art/play.png?raw=true)](https://youtu.be/97jg_zxVivg) | April 11, 2016
+6. | [Multiple MVCs, Segues, FaceIt View Controller Lifecycle](slides/Lecture-6-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/FaceIt-L6) | [![](art/play.png?raw=true)](https://youtu.be/o_HukQ-IKH8) | April 13, 2016
+7. | [Closures, Extensions, Protocols, Delegation, ScrollView](slides/Lecture-7-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/Cassini-L7) | [![](art/play.png?raw=true)](https://youtu.be/ppNZoEOr0zs) | April 18, 2016
+8. | [Multithreading, Text Field, Demo](slides/Lecture-8-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/Cassini-L8) | [![](art/play.png?raw=true)](https://youtu.be/_ib-m6ZCyyo) | April 20, 2016
+9. | [Table View](slides/Lecture-9-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/Smashtag-L9) | [![](art/play.png?raw=true)](https://youtu.be/SgEO7nni5CQ) | April 25, 2016
 10. | [Core Data](slides/Lecture-10-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/Uia6fMNq5e4) | April 27, 2016
-11. | [Core Data Demo](slides/Lecture-11-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/-4wvf3QjHiM) | May 2, 2016
+11. | [Core Data Demo](slides/Lecture-11-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/Smashtag-L11) | [![](art/play.png?raw=true)](https://youtu.be/-4wvf3QjHiM) | May 2, 2016
 12. | [Auto Layout](slides/Lecture-12-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/wBzzfaTj4vg) | May 4, 2016
-13. | [NSTimer, Animation](slides/Lecture-13-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/ZPDRn9rigF4) | May 9, 2016
-14. | [Animation Continued, CoreMotion](slides/Lecture-14-Slides.pdf) | x | [![](art/play.png?raw=true)](https://youtu.be/z-6PFsvLh3w) | May 11, 2016
-15. | [Application Lifecycle, Alerts, Cloud Kit](slides/Lecture-15-Slides.pdf) | | | May 16, 2016
-16. | [Demo, Notifications, Cloudkit](slides/Lecture-16-Slides.pdf) | | | May 18, 2016
-17. | [Segues, Core Location, MapKit](slides/Lecture-17-Slides.pdf) | x | | May 23, 2016
-18. | [Trax Demo, Persistence](slides/Lecture-18-Slides.pdf) | x | | May 25, 2016
+13. | [NSTimer, Animation](slides/Lecture-13-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/FaceIt-L13) | [![](art/play.png?raw=true)](https://youtu.be/ZPDRn9rigF4) | May 9, 2016
+14. | [Animation Continued, CoreMotion](slides/Lecture-14-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/DropIt-L14) | [![](art/play.png?raw=true)](https://youtu.be/z-6PFsvLh3w) | May 11, 2016
+15. | [Application Lifecycle, Alerts, Cloud Kit](slides/Lecture-15-Slides.pdf) | | [![](art/play.png?raw=true)](https://youtu.be/siUoxfGf0Eg) | May 16, 2016
+16. | [Demo, Notifications, Cloudkit](slides/Lecture-16-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/Pollster-L16) | [![](art/play.png?raw=true)](https://youtu.be/RCFWw3NUMaA) | May 18, 2016
+17. | [Segues, Core Location, MapKit](slides/Lecture-17-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/oTsg-uJfxD4) | May 23, 2016
+18. | [Trax Demo, Persistence](slides/Lecture-18-Slides.pdf) | [![](art/Xcode.png?raw=true)] (democode/Trax-L18) | [![](art/play.png?raw=true)](https://youtu.be/4E5K_UGybOo) | May 25, 2016
 
 ## Reading Assignments
 Reading  | Name 
